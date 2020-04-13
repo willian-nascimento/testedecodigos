@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+float circulo (float raio);
+
+int main (void ) {
+
+   float x;
+
+   printf("Digite o raio: ");
+   scanf("%f", &x);
+
+   printf("\nArea do circulo: %.2f m².\n", circulo(x));
+   
+   return 0;
+
+}
+
+float circulo (float raio) {
+
+   float pi = 3.14159;
+   
+   printf("kkkkkk");
+
+   return pi * (raio * raio);
+
+}
