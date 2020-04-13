@@ -3,7 +3,7 @@
 
 int main () {
 
-   int a[VETOR] = {1, 2, 5, 4, 3, 8, 19, 22, 23, 24};
+   int a[VETOR] = {1, 2, 5, 4, 3, 8, 19, 22, 23, 30};
    int i;
 
    for (i = 0; i < VETOR; i++) {
