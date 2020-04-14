@@ -17,7 +17,7 @@ int main (void ) {
 
 float area (float raio) {
 
-   float pi = 3.14159;
+   float pi = 3.141592654;
    
    return pi * (raio * raio);
 
